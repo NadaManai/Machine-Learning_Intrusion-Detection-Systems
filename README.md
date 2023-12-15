@@ -24,20 +24,13 @@ Ensure you have the following dependencies installed before running the code:
 - Python 3.x
 - Jupyter Notebooks
 
+# About the Project
 
-## About the project
+**Explore the Papers:**
+- Read the papers in the `documentation/` directory to understand the methodology and algorithms proposed.
 
-   **Explore the Papers:**
+**Data Understanding:**
+- Explore the datasets in the `datasets/` directory.
 
-    -Read the papers in the `documentation/` directory to understand the methodology and algorithms proposed.
-
-  **Data Understanding:**
-
-    -Explore the dataset in the `datasets/` directory. 
-
-   **CRISP-DM Phases:**
-
-    -All phases of the CRISP-DM (Cross-Industry Standard Process for Data Mining) framework are followed: Business Understanding, Data Understanding, Data Preparation, Modeling, Evaluation, and Deployment.
-
-
-
+**CRISP-DM Phases:**
+- All phases of the CRISP-DM (Cross-Industry Standard Process for Data Mining) framework are followed: Business Understanding, Data Understanding, Data Preparation, Modeling, Evaluation, and Deployment.
